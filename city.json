@@ -1,0 +1,11 @@
+{
+  "cities":[{
+    "name":"Karachi"
+    },{
+      "name":"Los Angeles"
+    },{
+      "name":"Yukon"
+    },{
+      "name":"Kobe"
+    }]
+}
